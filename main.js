@@ -26,7 +26,7 @@ var tablinks = document.getElementsByClassName("tab-links");
         
 
         var typed= new Typed(".typing",{
-            strings:["","SOUVIK MAITI","A STUDENT","A DEVOLOPER"],
+            strings:["","SOUVIK MAITI","A STUDENT","A DEVELOPER"],
             typedSpeed:200,
             BackSpeed:200,
             loop: true
